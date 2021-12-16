@@ -1,5 +1,7 @@
 # wom-21-projekt-2-frontend-pettersson-nylund
-Front end för Projekt 2 i Webbtjänster och molnteknologi. Electron, React &amp; Material UI.  Alexander Nylund &amp; Tommy Pettersson
+Front end för Projekt 2 in Webbtjänster och molnteknologi. Electron, React &amp; Material UI.  Alexander Nylund &amp; Tommy Pettersson
+
+### Frontend for the two backends: https://github.com/Ixurano/Cabin-booking/tree/master and https://github.com/Ixurano/booking-system/blob/main/README.md
 
 
 ### Prerequisites
